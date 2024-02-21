@@ -1,0 +1,8 @@
+EXECUTAR TODOS OS DIAS
+
+configurar Git Local:
+git config --global user.name MatheuxxxxDS
+git config --global user.email matheushe94@gmail.com
+.
+criar um projeto MVC
+dotnet new mvc -o Pokedex
